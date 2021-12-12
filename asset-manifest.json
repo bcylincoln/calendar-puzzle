@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calendar-puzzle/static/css/main.a617e044.chunk.css",
+    "main.js": "/calendar-puzzle/static/js/main.e177b9b5.chunk.js",
+    "main.js.map": "/calendar-puzzle/static/js/main.e177b9b5.chunk.js.map",
+    "runtime-main.js": "/calendar-puzzle/static/js/runtime-main.a177d613.js",
+    "runtime-main.js.map": "/calendar-puzzle/static/js/runtime-main.a177d613.js.map",
+    "static/js/2.21062aac.chunk.js": "/calendar-puzzle/static/js/2.21062aac.chunk.js",
+    "static/js/2.21062aac.chunk.js.map": "/calendar-puzzle/static/js/2.21062aac.chunk.js.map",
+    "static/js/3.64ed160d.chunk.js": "/calendar-puzzle/static/js/3.64ed160d.chunk.js",
+    "static/js/3.64ed160d.chunk.js.map": "/calendar-puzzle/static/js/3.64ed160d.chunk.js.map",
+    "index.html": "/calendar-puzzle/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/calendar-puzzle/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.21062aac.chunk.js.LICENSE.txt": "/calendar-puzzle/static/js/2.21062aac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/calendar-puzzle/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a177d613.js",
+    "static/js/2.21062aac.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e177b9b5.chunk.js"
+  ]
+}
